@@ -1,0 +1,35 @@
+.heading {
+    font-size: 33px;
+    font-weight: bold;
+    width: 100%;
+    margin: 0px;
+    height:120px;
+    box-shadow: 5px 5px 5px rgb(144, 132, 231);
+}
+
+body{
+    background-image: url("977893.jpg");
+}
+.note{
+    font-weight: bold;
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+}
+
+.copy_right_footer{
+    position: fixed;
+    font-size: 15px;
+    width: 100%;
+    color: white;
+    bottom: 0;
+    background-color: rgb(207, 43, 103);
+    line-height: 3;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(250, 82, 186);
+}
+
+canvas{
+    border:  5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
